@@ -1,5 +1,8 @@
+body {
+    background-color: #A71108;
+}
+
 #header {
-    background-color: #AD1608;
     color: #999999;
     padding: 4.5em 0 2.5em 0;
     color: #b0b0b0;
@@ -13,6 +16,8 @@
     padding: 4.5em 0 2.5em 0;
     color: #b0b0b0;
     text-align: center;
+    border-right: solid 2px #000;
+    border-left: solid 2px #000;
 }
 
 img.icon {
@@ -27,4 +32,38 @@ img.icon {
     color: #b0b0b0;
     text-align: center;
     border-top: solid 2px #000000;
+    border-right: solid 2px #000;
+    border-left: solid 2px #000;
+    border-bottom: solid 2px #000;
+}
+
+.button {
+    background-color: transparent;
+    color: #ffffff !important;
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
+}
+
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.075);
+}
+
+.button:active {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.button.primary {
+    box-shadow: none;
+    background-color: #ffffff;
+    color: #4696e5 !important;
+}
+
+.button {
+    border-radius: 6px;
+    display: inline-block;
+    font-weight: bold;
+    height: 2.85em;
+    line-height: 2.95em;
+    padding: 0 1.75em;
+    text-align: center;
+    text-decoration: none;
 }
