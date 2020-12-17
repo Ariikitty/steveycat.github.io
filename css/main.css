@@ -34,15 +34,12 @@ img.thumbnail {
     align-items: center;
     justify-content: center;
     flex-wrap: nowrap;
-    background-color: #610c07;
 }
 
 .flex-container>div {
     background-color: #b02013;
     border: 1px solid black;
     width: 200px;
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
     line-height: 75px;
     font-size: 24px;
