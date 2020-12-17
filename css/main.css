@@ -15,6 +15,11 @@
     text-align: center;
 }
 
+img.icon {
+    width: 3em;
+    height: 3em;
+}
+
 #footer {
     background-color: #b02013;
     color: #999999;
