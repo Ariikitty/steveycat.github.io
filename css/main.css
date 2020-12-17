@@ -1,5 +1,6 @@
 body {
     background-color: #A71108;
+    margin: 0;
 }
 
 #header {
@@ -16,8 +17,6 @@ body {
     padding: 4.5em 0 2.5em 0;
     color: #b0b0b0;
     text-align: center;
-    border-right: solid 2px #000;
-    border-left: solid 2px #000;
 }
 
 img.icon {
@@ -32,8 +31,6 @@ img.icon {
     color: #b0b0b0;
     text-align: center;
     border-top: solid 2px #000000;
-    border-right: solid 2px #000;
-    border-left: solid 2px #000;
     border-bottom: solid 2px #000;
 }
 
