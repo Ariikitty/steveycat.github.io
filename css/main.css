@@ -1,14 +1,20 @@
 #header {
-    background-color: #f7f7f7;
-    color: #999999;
-    padding: 4.5em 0 2.5em 0 ;
-    color: #b0b0b0;
-    text-align: center;
-    border-bottom: solid 2px #eeeeee;
+        background-color: #AD1608;
+        color: #999999;
+        padding: 4.5em 0 2.5em 0 ;
+        color: #b0b0b0;
+        text-align: center;
+        border-bottom: solid 2px #eeeeee;
 }
-
+#body{
+        background-color: #8F2B22;
+        color: #999999;
+        padding: 4.5em 0 2.5em 0 ;
+        color: #b0b0b0;
+        text-align: center;
+}
 #footer {
-    background-color: #f7f7f7;
+    background-color: #b02013;
     color: #999999;
     padding: 4.5em 0 2.5em 0 ;
     color: #b0b0b0;
